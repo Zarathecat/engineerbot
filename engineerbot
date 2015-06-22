@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "Name a technology:"
+read technology
+echo "What do you think of $technology?"
+read response
+echo "YOU ARE WRONG"
+exit
